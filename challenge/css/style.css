@@ -1,0 +1,40 @@
+body {
+  line-height: 1.5;
+  color:blue;
+  font-family: 'Comfortaa', cursive;
+  /* Full Page Background Receipe */
+
+  background: url('../images/SDR24Project.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-image: "../"
+}
+
+.container {
+  width: 500px;
+  margin:40px;
+  background-color: white;
+  padding: 15px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 20px;
+
+}
+h1{
+	font-family: 'Comfortaa',serif;
+	font-size: 80px;
+	color:#195992;
+	margin-bottom: -50px;
+}
+
+h2{
+	font-family: 'Comfortaa',serif;
+	color:#195922;
+
+	font-size: 30px;
+}
+
+a{
+	color:#195922;
+	text-decoration: none;
+}
